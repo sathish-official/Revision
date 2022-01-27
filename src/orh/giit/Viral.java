@@ -6,6 +6,10 @@ public static void main(String[] args) {
 	
 	System.out.println("From A");
 	
+	System.out.println("From B");
+	
+
+	
 	System.out.println("C from A");
-}
+	}
 }
